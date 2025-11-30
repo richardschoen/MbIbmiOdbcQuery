@@ -23,10 +23,12 @@ If you have questions or problems with the app feel or a feature request free to
 - Can duplicate window for already running connection along with SQL statement list for convenience.
 - Can open/save SQL files.
 - Highlight individual statements to run queries if multiple stored in an SQL file.
-- Logs all SQL statements for easy recall and tracking when you're running many queries. (I always lose track of my statement history.)
-- Store one or more system in the system list in the settings file.
-- Run record queries to result sets.
+- Logs all SQL statements for easy recall and tracking when you're running many queries.   
+(I always lose track of my statement history.)
+- Store one or more systems in the system list in the settings file.
+- Run record SELECT queries to result sets.
 - Perform action queries such as INSERT, UPDATE, DELETE.
+- Great way to test ODBC query performance.
 
 ## Pre-requisites
 You need a Windows PC.  So far only tested on Windows 11 x86, but should rubn on Windows 11 ARM. Should also thoeretically run on Windows 10 or even Windows 7 if your machine if that far back.
