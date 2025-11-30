@@ -1,6 +1,8 @@
 # IBM i ODBC Query Helper Utility
 This is a FREE IBM i app provided by MobiGoGo LLC (https://www.mobigogo.net)
 
+If you want to add hands-free Git source versioning for your classic RPG source files and use them with PDM/SEU, RDI and VS Code, check out iForgit (https://www.iforgit.com)  
+
 The app allows developers to run one or more interactive IBM i ODBC queries in a MDI (Multi-Document) Window in a MS Windows environment. 
 
 I plan to use it when I want to run multiple DB2 SQL queries and have them in a single UI with multiple result windows open. 
