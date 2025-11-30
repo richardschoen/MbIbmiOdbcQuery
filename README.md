@@ -26,5 +26,7 @@ If you have questions or problems with the app feel or a feature request free to
 - Perform action queries such as INSERT, UPDATE, DELETE.
 
 ## Pre-requisites
+You need a Windows PC.  So far only tested on Windows 11, but should thoeretically run on Windows 10 or even Windows 7 if your machine if that far back.
+
 You need to install the IBM i Access Windows package which contains the ODBC driver. This app uses the IBM i Access ODBC Driver.
 
