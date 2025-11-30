@@ -13,6 +13,7 @@ If you have questions or problems with the app feel or a feature request free to
 
 ## Features
 - Multi document interface. Can have one or more windows open to a single or multiple IBM i systems.
+- Can duplicate window for already running connection along with SQL statement list for convenience.
 - Can open/save SQL files.
 - Highlight individual statements to run queries if multiple stored in an SQL file.
 - Logs all SQL statements for easy recall and tracking when you're running many queries. (I always lose track of my statement history.)
