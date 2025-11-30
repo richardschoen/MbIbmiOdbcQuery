@@ -5,12 +5,21 @@ I don't use this instead of ACS Run SQL Scripts, but I plan to use it when I wan
 
 This app is a self-contained DotNet 10 app so it runs on Windows only. 
 
-Simply unzip to a directory and run the app. 
+Simply unzip to a directory and run the app ```MbibmiOdbcQuery```. (Suggested: ```C:\Program Files\MbIbmiOdbcQuery``` or ```C:\MbIbmiOdbcQuery```)
 
 If you have questions or problems with the app feel or a feature request free to open an issue.
 
 <img width="787" height="587" alt="image" src="https://github.com/user-attachments/assets/908b3378-30eb-4b73-86c4-7a1acb2e098c" />
 
-# Pre-requisites
+## Features
+- Multi document interface. Can have one or more windows open to a single or multiple IBM i systems.
+- Can open/save SQL files.
+- Highlight individual statements to run queries if multiple stored in an SQL file.
+- Logs all SQL statements for easy recall and tracking when you're running many queries. (I always lose track of my statement history.)
+- Store one or more system in the system list in the settings file.
+- Run record queries to result sets.
+- Perform action queries such as INSERT, UPDATE, DELETE.
+
+## Pre-requisites
 You need to install the IBM i Access Windows package which contains the ODBC driver. This app uses the IBM i Access ODBC Driver.
 
