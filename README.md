@@ -8,7 +8,8 @@ I don't plan to use this instead of ACS Run SQL Scripts, but will use it to augm
 
 This app is a self-contained DotNet 10 app so it runs on Windows only. 
 
-Simply unzip to a directory and run the app ```MbibmiOdbcQuery```. (Suggested: ```C:\Program Files\MbIbmiOdbcQuery``` or ```C:\MbIbmiOdbcQuery```)
+Simply unzip to a directory and run the app ```MbibmiOdbcQuery```.   
+(Suggested location: ```C:\Program Files\MbIbmiOdbcQuery``` or ```C:\MbIbmiOdbcQuery```)
 
 If you have questions or problems with the app feel or a feature request free to open an issue.
 
