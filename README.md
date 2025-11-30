@@ -3,7 +3,8 @@ This is a FREE IBM i app provided by MobiGoGo LLC (https://www.mobigogo.net)
 
 The app allows developers to run one or more interactive IBM i ODBC queries in a MDI (Multi-Document) Window in a MS Windows environment. 
 
-I don't use this instead of ACS Run SQL Scripts, but I plan to use it when I want to run multiple DB2 SQL queries and have them in a single UI with multiple result windows open.
+I plan to use it when I want to run multiple DB2 SQL queries and have them in a single UI with multiple result windows open. 
+I don't plan to use this instead of ACS Run SQL Scripts, but will use it to augment when I need a better way to compare result sets together. 
 
 This app is a self-contained DotNet 10 app so it runs on Windows only. 
 
