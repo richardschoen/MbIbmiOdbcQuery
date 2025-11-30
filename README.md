@@ -1,5 +1,7 @@
 # IBM i ODBC Query Helper Utility
-This is a FREE IBM i app or running one or more interactive IBM i ODBC queries in a MDI (Multi-Document) Window in a MS Windows environment. 
+This is a FREE IBM i app provided by MobiGoGo LLC (https://www.mobigogo.net)
+
+The app allows developers to run one or more interactive IBM i ODBC queries in a MDI (Multi-Document) Window in a MS Windows environment. 
 
 I don't use this instead of ACS Run SQL Scripts, but I plan to use it when I want to run multiple DB2 SQL queries and have them in a single UI with multiple result windows open.
 
