@@ -1,13 +1,13 @@
 # IBM i ODBC Query Helper Utility
-This app is a utility for running one or more IBM i ODBC queries in a MDI (Multi-Document) Window. 
+This is a FREE IBM i app or running one or more interactive IBM i ODBC queries in a MDI (Multi-Document) Window in a MS Windows environment. 
 
-I don't use this instead of ACS Run SQL Script, but I will use it when I wqnt to run multiple DB2 SQL queries and have them in a single UI with multiple result windows open.
+I don't use this instead of ACS Run SQL Scripts, but I plan to use it when I want to run multiple DB2 SQL queries and have them in a single UI with multiple result windows open.
 
 This app is a self-contained DotNet 10 app so it runs on Windows only. 
 
-Simple unzip to a directory and run the app. 
+Simply unzip to a directory and run the app. 
 
-Have fun.
+If you have questions or problems with the app feel or a feature request free to open an issue.
 
 <img width="787" height="587" alt="image" src="https://github.com/user-attachments/assets/908b3378-30eb-4b73-86c4-7a1acb2e098c" />
 
