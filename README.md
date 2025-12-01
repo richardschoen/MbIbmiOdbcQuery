@@ -6,7 +6,9 @@ The app allows developers to run one or more interactive IBM i ODBC queries in a
 I plan to use it when I want to run multiple DB2 SQL queries and have them in a single UI with multiple result windows open. 
 I don't plan to use this instead of ACS Run SQL Scripts, but will use it to augment when I need a better way to compare result sets together. 
 
-This app is a self-contained DotNet 10 app so it runs on Windows only. 
+This app is a self-contained DotNet 10 app so it runs on Windows only.   
+
+Consider this app open-object, which means FREE to use, but not open-source. Although if you need DotNet training or development feel free to reach out.
 
 Download here:  
 https://github.com/richardschoen/MbIbmiOdbcQuery/releases
