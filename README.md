@@ -8,7 +8,7 @@ I don't plan to use this instead of ACS Run SQL Scripts, but will use it to augm
 
 This app is a self-contained DotNet 10 app so it runs on Windows only.   
 
-Consider this app ```open-object``, which means FREE to use, but not open-source. 
+Consider this app ```open-object```, which means FREE to use, but ```not open-source```. 
 
 If you need DotNet training or development feel free to reach out to discuss your needs. info.mobigogo.net -or- richard@mobigogo.net
 
